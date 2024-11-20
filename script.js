@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', () => {
         description.textContent = "------";
         minTemp.textContent = "------";
         maxTemp.textContent = "------";
-        weatherImages.src = `images/cloudy.png`;
+        weatherImages.src = `cloudy.png`;
         cityInput.value = '';
     }
 })
